@@ -8,3 +8,21 @@ Find me here...
 [![Twitter](https://img.shields.io/twitter/follow/troschinsky?logo=twitter&style=for-the-badge)](https://twitter.com/troschinsky)
 [![LinkedIn](https://img.shields.io/badge/Connect%20%40TROSCHINSKY-323-informational?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/troschinsky)
 [![AboutMe](https://img.shields.io/badge/About.me-Read%20More-yellowgreen?logo=aboutdotme&style=for-the-badge)](https://about.me/thomas.roschinsky)
+
+## My topics :keyboard:
+
+### Dev 
+
+[![Dotnet, CSharp, PowerShell, C, Cpp, JS, TypeScript, Vue, HTML, CSS](https://skillicons.dev/icons?i=dotnet,cs,powershell,c,cpp,js,ts,vue,html,css)](https://skillicons.dev)  
+
+### Ops
+
+[![RaspberryPi, Arduino, Azure, Git, GitLab, Docker](https://skillicons.dev/icons?i=azure,git,gitlab,docker)](https://skillicons.dev)
+
+### Tinker
+
+[![RaspberryPi, Arduino](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
+
+### Tools of choice
+
+[![VSCode, VisualStudio, PhotoShop](https://skillicons.dev/icons?i=vscode,visualstudio,md,ps)](https://skillicons.dev)
