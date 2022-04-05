@@ -13,7 +13,7 @@ Find me here...
 
 ### Dev 
 
-[![Dotnet, CSharp, PowerShell, C, Cpp, JS, TypeScript, Vue, HTML, CSS](https://skillicons.dev/icons?i=dotnet,cs,powershell,c,cpp,js,ts,vue,html,css)](https://skillicons.dev)  
+[![Dotnet, CSharp, C, Cpp, JS, TypeScript, Vue, HTML, CSS](https://skillicons.dev/icons?i=dotnet,cs,c,cpp,js,ts,vue,html,css)](https://skillicons.dev)  
 
 ### Ops
 
@@ -25,4 +25,4 @@ Find me here...
 
 ### Tools of choice
 
-[![VSCode, VisualStudio, PhotoShop](https://skillicons.dev/icons?i=vscode,visualstudio,md,ps)](https://skillicons.dev)
+[![VSCode, VisualStudio, PowerShell, PhotoShop](https://skillicons.dev/icons?i=vscode,visualstudio,powershell,md,ps)](https://skillicons.dev)
