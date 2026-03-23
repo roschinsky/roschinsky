@@ -5,7 +5,7 @@
 ## Get in touch :handshake:
 
 Find me here...  
-[![Twitter](https://img.shields.io/twitter/follow/troschinsky?logo=twitter&style=for-the-badge)](https://twitter.com/troschinsky)
+[![Twitter](https://img.shields.io/bluesky/posts/roschinsky.bsky.social?logo=bluesky&style=for-the-badge)](https://bsky.app/profile/roschinsky.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/Connect%20%40TROSCHINSKY-323-informational?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/troschinsky)
 [![AboutMe](https://img.shields.io/badge/About.me-Read%20More-yellowgreen?logo=aboutdotme&style=for-the-badge)](https://about.me/thomas.roschinsky)
 
